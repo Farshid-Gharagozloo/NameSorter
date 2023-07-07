@@ -8,27 +8,24 @@ namespace NameSorter
 {
     public class FullName
     {
-        public string Name;
 
-
-        public FullName(string nameInfo)
+        public static List<string> GetFullName (List<NameArrays> names)
         {
-            Name = nameInfo;
+            List<string> fullName= new List<string>();
+            foreach (NameArrays name in names)
+            {
+                if ((name.OtherPartsOfName.Length == 0) && (name.LastName != null))
+                {
+                    fullName.Add( name.LastName );
+                }
+                else if (name.LastName != null)
+                {
+                    fullName.Add( string.Join (" ", name.OtherPartsOfName) + " " + name.LastName );
+                }
+            }
+
+            return fullName;
         }
 
-        public string GetLastName()
-        {
-            return Name.Trim().Split().Last();
-        }
-
-        public string[] GetNameArray()
-        {
-            return Name.Trim().Split(new char[0], StringSplitOptions.RemoveEmptyEntries);
-        }
-
-        public string GetName()
-        {
-            return Name;
-        }
     }
 }

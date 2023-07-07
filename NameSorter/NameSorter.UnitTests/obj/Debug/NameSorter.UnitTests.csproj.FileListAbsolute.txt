@@ -16,3 +16,21 @@ C:\My Files\c#p\NameSorter\NameSorter.UnitTests\obj\Debug\NameSorter.UnitTests.c
 C:\My Files\c#p\NameSorter\NameSorter.UnitTests\obj\Debug\NameSorter.UnitTests.csproj.CopyComplete
 C:\My Files\c#p\NameSorter\NameSorter.UnitTests\obj\Debug\NameSorter.UnitTests.dll
 C:\My Files\c#p\NameSorter\NameSorter.UnitTests\obj\Debug\NameSorter.UnitTests.pdb
+C:\My Files\CSharp Project\NameSorter\NameSorter.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\My Files\CSharp Project\NameSorter\NameSorter.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\My Files\CSharp Project\NameSorter\NameSorter.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\My Files\CSharp Project\NameSorter\NameSorter.UnitTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\My Files\CSharp Project\NameSorter\NameSorter.UnitTests\bin\Debug\NameSorter.UnitTests.dll
+C:\My Files\CSharp Project\NameSorter\NameSorter.UnitTests\bin\Debug\NameSorter.UnitTests.pdb
+C:\My Files\CSharp Project\NameSorter\NameSorter.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\My Files\CSharp Project\NameSorter\NameSorter.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\My Files\CSharp Project\NameSorter\NameSorter.UnitTests\bin\Debug\NameSorter.exe
+C:\My Files\CSharp Project\NameSorter\NameSorter.UnitTests\bin\Debug\NameSorter.pdb
+C:\My Files\CSharp Project\NameSorter\NameSorter.UnitTests\bin\Debug\NameSorter.exe.config
+C:\My Files\CSharp Project\NameSorter\NameSorter.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\My Files\CSharp Project\NameSorter\NameSorter.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\My Files\CSharp Project\NameSorter\NameSorter.UnitTests\obj\Debug\NameSorter.UnitTests.csproj.AssemblyReference.cache
+C:\My Files\CSharp Project\NameSorter\NameSorter.UnitTests\obj\Debug\NameSorter.UnitTests.csproj.CoreCompileInputs.cache
+C:\My Files\CSharp Project\NameSorter\NameSorter.UnitTests\obj\Debug\NameSorter.UnitTests.csproj.CopyComplete
+C:\My Files\CSharp Project\NameSorter\NameSorter.UnitTests\obj\Debug\NameSorter.UnitTests.dll
+C:\My Files\CSharp Project\NameSorter\NameSorter.UnitTests\obj\Debug\NameSorter.UnitTests.pdb

@@ -51,9 +51,9 @@
   <ItemGroup>
     <Compile Include="FullNameTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SortByFullNameTests.cs" />
-    <Compile Include="SortByLastNameTests.cs" />
+    <Compile Include="NameArraysTests.cs" />
     <Compile Include="SortModelTests.cs" />
+    <Compile Include="SortClassTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
